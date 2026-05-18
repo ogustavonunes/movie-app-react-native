@@ -11,3 +11,5 @@ yarn-error.*
 Thumbs.db
 
 .env
+
+.idea
